@@ -1,0 +1,13 @@
+[
+  {
+    "timestamp": "2026-05-29T10:49:48.593Z",
+    "event": "test",
+    "sessionId": "abc123",
+    "surferId": "0626",
+    "data": {
+      "test": true
+    },
+    "ip": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Microsoft Windows 10.0.26200; en-US) PowerShell/7.6.2"
+  }
+]

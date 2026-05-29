@@ -1,0 +1,17 @@
+{
+  "name": "selfhostchat-tracking-worker",
+  "private": true,
+  "scripts": {
+    "deploy": "wrangler deploy",
+    "dev": "wrangler dev",
+    "dev:remote": "wrangler dev --remote"
+  },
+  "dependencies": {
+    "hono": "^4.0.0"
+  },
+  "devDependencies": {
+    "@cloudflare/workers-types": "^4.20240620.0",
+    "wrangler": "^3.60.0",
+    "typescript": "^5.4.0"
+  }
+}

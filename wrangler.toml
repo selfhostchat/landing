@@ -1,0 +1,9 @@
+name = "selfhostchat-tracking"
+main = "src/index.ts"
+compatibility_date = "2024-09-01"
+compatibility_flags = ["nodejs_compat"]
+
+[vars]
+# Giá trị rỗng — production dùng `wrangler secret put`
+TELEGRAM_BOT_TOKEN = ""
+TELEGRAM_CHAT_ID = ""
