@@ -7,3 +7,4 @@ compatibility_flags = ["nodejs_compat"]
 # Giá trị rỗng — production dùng `wrangler secret put`
 TELEGRAM_BOT_TOKEN = ""
 TELEGRAM_CHAT_ID = ""
+GOOGLE_SHEET_ID = "1Gjs9jU9zRPJ7XVo2nD42dSy5zannYO7D5IlASZQgrS0"
